@@ -1,4 +1,4 @@
-require 'socket'      # Sockets are in standard library
+require 'socket'
 
 `git pull`
 
@@ -29,5 +29,5 @@ while data != "EXT"
 end
 
 
-s.close               # Close the socket when done
+s.close
 
