@@ -1,5 +1,7 @@
 require 'socket'      # Sockets are in standard library
 
+`git pull`
+
 hostname = 'localhost'
 port = 2000
 
